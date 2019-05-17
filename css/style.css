@@ -1,0 +1,15 @@
+
+body {font-family: Arial;}
+
+a:link.menu {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+a:visited.menu {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+

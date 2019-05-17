@@ -1,0 +1,17 @@
+input.submit {
+    background-color: blue;
+    color: white;
+}
+input.submit:hover {
+    background-color: white;
+    color: blue;
+}
+input.submit:active {
+    color: orange;
+}
+input.text, textarea.text {
+    color: gray;
+}
+input.text:focus, textarea.text:focus {
+    color: black;
+}
